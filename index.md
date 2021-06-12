@@ -1,7 +1,7 @@
 ## Ben Yu's Website
 
 ### Photo of me:
-![Image](src)
+<img src="https://github.com/ben14yu/ben14yu.github.io/blob/main/pfp.jpg" />
 
 ### My social media:
 Instagram: benyu.123 | benyudigitalcaptures
